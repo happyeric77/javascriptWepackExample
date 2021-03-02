@@ -1,1 +1,0 @@
-(()=>{"use strict";(()=>{const o=JSON.parse('{"a":"This is exported json data from data.json"}');$("<h1>Hello webpack</h1>").appendTo("body"),$("<h2>This is exported variable a from const.js</h2>").appendTo("body"),$("<h2>This is exported variable b from const.js</h2>").appendTo("body"),$("<h2>"+o.a+"</h2>").appendTo("body")})()})();
