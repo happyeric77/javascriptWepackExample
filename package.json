@@ -1,0 +1,17 @@
+{
+  "name": "webpackExample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  }
+}

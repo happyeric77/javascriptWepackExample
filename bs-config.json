@@ -1,0 +1,6 @@
+{
+    "port": 7160,
+    "server": {
+        "baseDir": "./src"
+    }
+}
