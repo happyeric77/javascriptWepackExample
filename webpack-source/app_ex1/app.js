@@ -1,6 +1,7 @@
 import data from "./data.json"
 import {a, b} from "./const"
-const path = require('path')
+import path from "path"
+import Web3 from "web3"
 
 $("<h1>Hello webpack</h1>").appendTo("body")
 $("<h2>" + a + "</h2>").appendTo("body")
